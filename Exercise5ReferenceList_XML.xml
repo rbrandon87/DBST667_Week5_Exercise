@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>2010</b:Year>
+<b:Volume>2</b:Volume>
+<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+<b:SourceType>JournalArticle</b:SourceType>
+<b:Title>neuralnet: Training of neural networks</b:Title>
+<b:Tag>gunther2010neuralnet</b:Tag>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>Günther</b:Last>
+<b:First>Frauke</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Fritsch</b:Last>
+<b:First>Stefan</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+<b:Pages>30-38</b:Pages>
+<b:JournalName>The R journal</b:JournalName>
+<b:Number>1</b:Number>
+</b:Source>
+</b:Sources>
